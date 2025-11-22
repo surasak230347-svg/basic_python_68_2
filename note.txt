@@ -2,7 +2,7 @@ cd
 ls
 pwd
 
-git clone https://github.com/surasak230347-svg/basic_python_68_2.git
+
 
 git init
 git remote add origin https://github.com/surasak230347-svg/basic_python_68_2.git
@@ -15,3 +15,5 @@ git commit -m "Message"
 git push origin main
 
 git pull origin main
+
+git clone https://github.com/surasak230347-svg/basic_python_68_2.git
