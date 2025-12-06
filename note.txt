@@ -1,19 +1,19 @@
-cd
-ls
-pwd
+    cd
+    ls
+    pwd
 
 
 
-git init
-git remote add origin https://github.com/surasak230347-svg/basic_python_68_2.git
+    git init
+    git remote add origin https://github.com/surasak230347-svg/basic_python_68_2.git
 
-git config --global user.name "surasak"
-git config --global user.email "surasak230347@gmail.com"
+    git config --global user.name "surasak"
+    git config --global user.email "surasak230347@gmail.com"
 
-git add .
-git commit -m "Message"
-git push origin main
+    git add .
+    git commit -m "Message"
+    git push origin main
 
-git pull origin main
+    git pull origin main
 
-git clone https://github.com/surasak230347-svg/basic_python_68_2.git
+    git clone https://github.com/surasak230347-svg/basic_python_68_2.git
